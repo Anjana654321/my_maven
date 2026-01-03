@@ -7,6 +7,7 @@ public class Sample {
 		EncapsClass ob=new EncapsClass();
 		ob.setterMethod(24,"Anjana");
 		ob.getterMethod();
+		System.out.println("Git");
 	}
 
 }
